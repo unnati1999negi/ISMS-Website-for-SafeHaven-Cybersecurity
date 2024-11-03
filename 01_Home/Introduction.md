@@ -6,6 +6,4 @@ At SafeHaven, we are dedicated to providing top-notch cybersecurity solutions ta
 
 Explore our structured approach to safeguarding digital assets, designed to ensure compliance with industry standards and promote a secure operational environment.
 
-**Address**:  
-SafeHaven Cybersecurity  
-1234 Cyber St, Secure City, SC 56789
+
