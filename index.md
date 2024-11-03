@@ -1,8 +1,5 @@
 ![SafeHaven Cybersecurity Logo](assets/logo.jpeg)
 
-<div style="background-color: #B3E0FF; padding: 20px; border-radius: 10px; display: inline-block;">
-    <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo">
-</div>
 
 **SafeHaven Cybersecurity**  
 1234 Cyber St, Secure City, SC 56789
