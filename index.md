@@ -1,14 +1,20 @@
-![SafeHaven Cybersecurity Logo](assets/logo.png)
+
+<img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="border: 5px solid #ADD8E6; border-radius: 10px; padding: 5px;">
 
 
 <!-- Large Image -->
 <img src="assets/image.jpg" alt="ISMS Overview Image" style="width: 100%; max-width: 600px; display: block; margin: 20px auto;">
 
 
-**SafeHaven Cybersecurity**
+<div style="border: 5px solid #ADD8E6; border-radius: 10px; padding: 5px; display: inline-block;">
+    <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="width: 150px;">
+</div>
+
+**SafeHaven Cybersecurity**  
 1234 Cyber St, Secure City, SC 56789
 
 ---
+
 
 
 
