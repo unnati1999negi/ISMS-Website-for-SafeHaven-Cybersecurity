@@ -49,5 +49,5 @@ We are committed to:
 
 SafeHaven Cybersecurity – making security simple, strong, and sustainable.
 
-<p style="color: #0000FF;">Explore our policies, compliance standards, and operational security strategies to understand how we protect your business.</p>
+## Explore our policies, compliance standards, and operational security strategies to understand how we protect your business.
 
