@@ -1,4 +1,8 @@
-![SafeHaven Cybersecurity Logo](assets/logo.jpeg)
+![SafeHaven Cybersecurity Logo](assets/logo.jpeg)  
+
+<img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="border: 5px solid #ADD8E6; padding: 5px; border-radius: 10px; width: 150px;">
+
+
 
 
 **SafeHaven Cybersecurity**  
