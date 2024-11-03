@@ -1,5 +1,5 @@
 
-<img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="border: 5px solid #ADD8E6; border-radius: 10px; padding: 5px;">
+<img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" >
 
 
 <!-- Large Image -->
