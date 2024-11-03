@@ -42,3 +42,5 @@ We are committed to:
 - **Fostering Resilience**: Creating a culture of cybersecurity awareness, enabling businesses to recover swiftly and effectively from any incident.
 
 SafeHaven Cybersecurity – making security simple, strong, and sustainable.
+
+Explore our policies, compliance standards, and operational security strategies to understand how we protect your business
