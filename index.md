@@ -1,6 +1,6 @@
 
 
-<!-- Main Logo at 65% Size --> 
+<!-- Main Logo at 85% Size --> 
 <div style="text-align: center;">
     <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="width: 65%;">
 </div>
@@ -8,8 +8,8 @@
 <!-- Large Overview Image with Full Width (Max 800px) -->
 <img src="assets/image.jpg" alt="ISMS Overview Image" style="width: 100%; max-width: 800px; display: block;">
 
-<!-- Small Logo Above Address at 15% Size -->
-<div style="text-align: center;">
+<!-- Small Logo Above Address at 15% Size, Aligned Left -->
+<div style="text-align: left;">
     <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Small Logo" style="width: 15%; vertical-align: middle;">
     <p style="font-weight: bold; font-size: 18px;">SafeHaven Cybersecurity</p>
     <p>1234 Cyber St, Secure City, SC 56789</p>
