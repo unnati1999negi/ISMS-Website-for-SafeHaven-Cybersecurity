@@ -1,8 +1,5 @@
 ![SafeHaven Cybersecurity Logo](assets/logo.jpeg)  
 
-<div style="background-color: #ADD8E6; padding: 20px; border-radius: 10px; display: inline-block;">
-    <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="width: 150px;">
-</div>
 
 <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="border: 5px solid #ADD8E6; padding: 5px; border-radius: 10px; width: 150px;">
 
@@ -52,4 +49,5 @@ We are committed to:
 
 SafeHaven Cybersecurity – making security simple, strong, and sustainable.
 
-Explore our policies, compliance standards, and operational security strategies to understand how we protect your business
+<p style="color: #0000FF;">Explore our policies, compliance standards, and operational security strategies to understand how we protect your business.</p>
+
