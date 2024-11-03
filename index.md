@@ -1,5 +1,11 @@
 ![SafeHaven Cybersecurity Logo](assets/logo.jpeg)  
 
+<div style="background-color: #ADD8E6; padding: 10px; border-radius: 10px; display: inline-block;">
+    <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="width: 100px;">
+</div>
+
+![Additional Image](assets/image.jpeg)
+
 
 <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="border: 5px solid #ADD8E6; padding: 5px; border-radius: 10px; width: 150px;">
 
