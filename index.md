@@ -1,6 +1,6 @@
 
 
-<!-- Main Logo at 65% Size -->
+<!-- Main Logo at 65% Size --> 
 <div style="text-align: center;">
     <img src="assets/logo.jpeg" alt="SafeHaven Cybersecurity Logo" style="width: 65%;">
 </div>
